@@ -1,0 +1,6 @@
+---
+# defaults file for web-server
+apachePackageName: apache2
+webContent: index.html
+wwwPath: /var/www/html/index.html
+apachePort: 8090
